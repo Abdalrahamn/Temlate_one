@@ -489,6 +489,7 @@ ul {
 .testemonail {
   position: relative;
   background-image: url(../images/background/2.jpeg);
+  background-size: cover;
   background-attachment: fixed;
   height: 350px;
 }
